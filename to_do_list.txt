@@ -1,0 +1,4 @@
+I need to write a function to make each letter of 'frankenstein.txt' lowercase
+and return them with the number of each letter.
+
+Take the functions out of 'main.py' and separate them into another '.py' file.
